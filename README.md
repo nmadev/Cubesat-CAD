@@ -1,7 +1,7 @@
 # Cubesat-CAD
-CAD Models for Yale's Cubesat
-[Repo Organization](README.md#Organization)
-[License](README.md#License)
+CAD Models for Yale's Cubesat <br />
+[Repo Organization](README.md#Organization) <br />
+[License](README.md#License) <br />
 ## Organization
 
 
