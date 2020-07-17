@@ -1,5 +1,11 @@
 # Cubesat-CAD
 CAD Models for Yale's Cubesat
+[Repo Organization](README.md#Organization)
+[License](README.md#License)
+## Organization
 
 
-## How the Repo is Organized
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
