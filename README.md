@@ -22,7 +22,7 @@ CAD Models for Yale's Cubesat <br />
 
 ### Original Assembly
 
-
+![CubeSat Render](/Render%20Images/FullRender.JPG)
 
 ### Modified Assembly
 
