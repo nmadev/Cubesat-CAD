@@ -4,9 +4,9 @@ CAD Models for Yale's Cubesat <br />
 [Organization](README.md#Organization) <br />
 [License](README.md#License) <br />
 [History](README.md#History%20of%20YUAA%20CubeSat) <br />
-[Assemblies](README.md#CubeSat Assemblies)
-[Original](README.md#Original%20Assembly)
-[Modified](README.md#Modified%20Assembly)
+[Assemblies](README.md#CubeSat%20Assemblies) <br />
+[Original](README.md#Original%20Assembly) <br />
+[Modified](README.md#Modified%20Assembly) <br />
 
 ## Organization
 
