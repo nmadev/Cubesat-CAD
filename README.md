@@ -20,13 +20,15 @@ CAD Models for Yale's Cubesat <br />
 
   The two assemblies shown below are extremely similar with one large difference: the space alloted for the Cosmic Ray Detector, Magnetometer, and Sun Sensor. The original assembly allows for space near the cover plate for those three components and slightly reduces the vertical space for the gravity boom deployment system. The modified assembly eliminates the space beside the cover plate and adds vertical space for the gravity boom deployment system but also necessitates the placement of the aforementioned three components in the same space as the gravity boom deployment system.
 
+![CubeSat Render](/Render%20Images/FullRender.JPG)
+
 ### Original Assembly
 
-![CubeSat Render](/Render%20Images/FullRender.JPG)
+![Original Internal CubeSat Render](/Render%20Images/OriginalInternalRender.JPG)
 
 ### Modified Assembly
 
-
+![Modified Internal CubeSat Render](/Render%20Images/ModifiedInternalRender.JPG)
 
 ## License
 
